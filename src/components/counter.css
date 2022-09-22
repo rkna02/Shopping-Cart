@@ -1,0 +1,17 @@
+.counter {
+    background: blue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+.counter-zero {
+    background: rgb(231, 200, 0);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    vertical-align: middle;
+}
